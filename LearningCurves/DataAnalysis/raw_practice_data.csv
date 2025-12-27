@@ -1,0 +1,11 @@
+Date,Product_Name,Category,Price,Country,Units_Sold,User_Rating,In_Stock
+"Jan, 2020",Item A,Electronics,"$1,200.00",USA,34.0,4.5,yes
+February 2020,item b,electronics,950,USA,,"4,1",Yes
+Mar 2020,Item C,Home,"$1,500",UK,12.0,,no
+"April,2020",Item C,Home,"$1,500",UK,12.0,,no
+May 2020,Item D,Garden,"$2,300.50",Canada,-5.0,3.9,YES
+June 2020,Item E,garden,,Canada,18.0,4.0,No
+"July, 2020",Item F,Sports,$780.00,USA,44.0,4.2,yes
+Aug 2020,Item G,Sports,"$1,050.00",USA,0.0,four,No
+September 2020,Item H,Office,$620.00,UK,27.0,3.8,yes
+Oct 2020,Item I,office,620,UK,27.0,3.8,yes
